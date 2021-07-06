@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="app-launcher-c88600" version="2.4.2">
+ <names>
+  <name lang="en_US">App-Launcher</name>
+  <name lang="en_US-x-scrald">App-Launcher</name>
+ </names>
+ <descriptions>
+  <description lang="en_US">Launcher for applications
+Create a set of pages, each containing the desired applications. 
+Preferences for customization in domain tool.applauncher.page:
+Create your own pages configuration
+key:
+page1(2,3,4...)
+format value:
+{'title':{'English':'Retail','French':'Vente'},'apps':['product-information','shop-orientation','loyalty-program','satisfaction-survey']}
+Preferences for customization in domain tool.applauncher:
+keys:
+- logo : changes the front page logo on tablet (ex: Pepper-white.png)
+- behaviorNameDisplayed : 1 to show apps' name
+- attachedApplication : another app is displayed on tablet instead of the default page
+- conditionExpression : launch trigger condition for tablet to be displayed
+- dialogAlwaysRunning : boolean default False : bypass run_dialog and run the dialog automatically.
+Preferences you have to add  in domain com.aldebaran.system.tablet:
+- MainActivity : image
+- MainResourceURL : http://198.18.0.1/apps/app-launcher/resources/background.jpg</description>
+  <description lang="en_US-x-scrald">Launcher for applications
+Create a set of pages, each containing the desired applications. 
+Preferences for customization in domain tool.applauncher.page:
+Create your own pages configuration
+key:
+page1(2,3,4...)
+format value:
+{'title':{'English':'Retail','French':'Vente'},'apps':['product-information','shop-orientation','loyalty-program','satisfaction-survey']}
+Preferences for customization in domain tool.applauncher:
+keys:
+- logo : changes the front page logo on tablet (ex: Pepper-white.png)
+- behaviorNameDisplayed : 1 to show apps' name
+- attachedApplication : another app is displayed on tablet instead of the default page
+- conditionExpression : launch trigger condition for tablet to be displayed
+- dialogAlwaysRunning : boolean default False : bypass run_dialog and run the dialog automatically.
+Preferences you have to add  in domain com.aldebaran.system.tablet:
+- MainActivity : image
+- MainResourceURL : http://198.18.0.1/apps/app-launcher/resources/background.jpg</description>
+ </descriptions>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents/>
+ <requirements>
+  <naoqiRequirement minVersion="2.4" maxVersion="2.5"/>
+  <robotRequirement model="JULIETTE"/>
+ </requirements>
+ <services>
+  <service name="AppLauncher" autorun="true" execStart="/usr/bin/python2 lib/app_launcher.py"/>
+ </services>
+</package>

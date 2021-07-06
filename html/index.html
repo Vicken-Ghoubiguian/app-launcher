@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet" type="text/css"/> 
+    <script src="js/jquery-2.1.4.min.js"></script> 
+    <!-- <script type="text/javascript"></script> -->
+    <script src="js/robotutils.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/adjust23.js"></script>
+
+    <style>
+    </style>
+</head>
+
+<body>
+    <meta name="viewport" content="width=device-width, user-scalable=no" />
+    <nav role="navigation" class="navbar transparent  navbar-static-top">
+        <div class="container">
+            <div id="menuBar">
+                <button id="btn_home" class="paramButton home" style="display: none;">
+                    <span class="glyphicon glyphicon-home"></span>
+                </button>
+                    <div class="dropdown">
+                    <button class="paramButton" data-toggle="dropdown">
+                        <span class="glyphicon glyphicon-bullhorn"></span>
+                    </button>
+                    <div id="menuParam" class="dropdown-menu dropdown-menu-right paramList">
+                        <button id="btn_volume_down" class="paramButton">
+                            <span class="glyphicon glyphicon-volume-down"></span>
+                        </button>
+                        <button id="btn_volume_up" class="paramButton">
+                            <span class="glyphicon glyphicon-volume-up"></span>
+                        </button>
+                    </div>
+                    <button id="btn_help" class="paramButton" style="display: none;">
+                            <span class="glyphicon glyphicon-list"></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </nav>
+   
+
+    <div class="container-fluid" role="main" id="launcher">
+        <div class="row" id="logo" ></div>
+        
+        <div id="main_menu" class="text-center main_menu" style="display: none;">
+            <div id="mainWindow" class="row windowCenter">
+                <div id="containerMenu" class="hexagone">
+                </div>
+            </div>
+        </div>
+        <div id="loading_menu" class="text-center" style="display: in;">
+            <div class="row">
+                <img src="resources/loading.gif" />
+            </div>
+        </div>
+
+        <div id="onsleep_menu" class="text-center" style="display: none;">
+            <div class="row">
+                <img src="resources/sleep.gif" />
+            </div>
+            <div class="row">
+                <button id="buttonWakeup" class="paramButton">
+                    <span class="glyphicon glyphicon-off glyphicon-center"></span>
+                </button>
+            </div>
+        </div>
+    </div>  
+    <div class="dropup">
+        <button data-toggle="dropdown" class="paramButton showApps" aria-expanded="false"> 
+            <span class="glyphicon glyphicon-option-horizontal"></span>
+        </button>
+        <div id="menuApps" role="menu" class="dropdown-menu dropdown-menu-right appsGrid">
+        </div>
+    </div>
+</body>
+</html> 
