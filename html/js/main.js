@@ -8,7 +8,7 @@ function add_div_tab(listTabId){
     for (var name in listTabId){
         createDivTab +='<div id="'+listTabId[name]+'"><div id="'+listTabId[name]+'1" class="hex-row"></div><div id="'+listTabId[name]+'2" class="hex-row even"></div></div>';
     }
-    $('#containerMenu').html(createDivTab);
+    //$('#containerMenu').html(createDivTab);
 }
 
 function add_button_home_page(id_div){
