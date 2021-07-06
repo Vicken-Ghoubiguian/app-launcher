@@ -59,7 +59,7 @@ body{
 }
 
 .paramButton:active{
-  color: lime;
+  color: #E50043;
 }
 
 .text-center{
@@ -85,7 +85,7 @@ body{
 }
 
 .open>.paramList>button:active{
-  color: lime;
+  color: #E50043;
 }
 
 .open>.paramList {
@@ -181,7 +181,7 @@ body{
 .appsGrid{
   width: 1670px;
   height: 850px;
-  color: #ffffff;
+  color: #575756;
   border-radius: 20px;
   background-color: #ffffff;
   float: none;
