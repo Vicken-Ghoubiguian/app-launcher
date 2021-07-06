@@ -26,9 +26,6 @@ body{
 }
 
 #logo {
-  /*background-image: url(../resources/Pepper-white.png);
-  width: 850px;
-  height: 160px;*/
   margin-left: 460px;
   background-size: contain;
   background-repeat: no-repeat;
