@@ -205,15 +205,18 @@ body{
     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
 }
 
-#cci-po_logo_div {
-  /*position: absolute;
-  right: 20px;*/
+/*#cci-po_logo_div {
+  position: absolute;
+  right: 20px;
   bottom: 0px;
-}
+}*/
 
 #cci-po_logo {
-  text-align: center;
-  position: absolute;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: center;
+  margin-bottom: 10px;
 }
 
 .dropup{
