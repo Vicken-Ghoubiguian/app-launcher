@@ -9,9 +9,9 @@ body{
   overflow:hidden;
   font-family: 'Nunito-Bold', sans-serif;
   font-weight: 100;
-  background-color: #aecbd6;
+  background-color: #ffffff;
   background-image: url(../resources/background.jpg);
-  color : white;   
+  color : #E50043;
   font-size:50px;
 }
 
