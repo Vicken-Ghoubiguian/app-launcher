@@ -15,7 +15,7 @@ format value:
 {'title':{'English':'Retail','French':'Vente'},'apps':['product-information','shop-orientation','loyalty-program','satisfaction-survey']}
 Preferences for customization in domain tool.applauncher:
 keys:
-- logo : changes the front page logo on tablet (ex: Pepper-white.png)
+- logo : changes the front page logo on tablet (ex: logoIMERIR.png)
 - behaviorNameDisplayed : 1 to show apps' name
 - attachedApplication : another app is displayed on tablet instead of the default page
 - conditionExpression : launch trigger condition for tablet to be displayed
@@ -33,7 +33,7 @@ format value:
 {'title':{'English':'Retail','French':'Vente'},'apps':['product-information','shop-orientation','loyalty-program','satisfaction-survey']}
 Preferences for customization in domain tool.applauncher:
 keys:
-- logo : changes the front page logo on tablet (ex: Pepper-white.png)
+- logo : changes the front page logo on tablet (ex: logoIMERIR.png)
 - behaviorNameDisplayed : 1 to show apps' name
 - attachedApplication : another app is displayed on tablet instead of the default page
 - conditionExpression : launch trigger condition for tablet to be displayed

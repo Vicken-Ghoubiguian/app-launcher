@@ -34,7 +34,7 @@
         <File name="change_screen" src="html/resources/change_screen.ogg" />
         <File name="defaultPreferences" src="html/resources/defaultPreferences.json" />
         <File name="loading" src="html/resources/loading.gif" />
-        <File name="Pepper-white" src="html/resources/Pepper-white.png" />
+        <File name="logoIMERIR" src="html/resources/logoIMERIR.png" />
         <File name="sleep" src="html/resources/sleep.gif" />
         <File name="whitePage" src="html/resources/whitePage.png" />
         <File name="app_launcher" src="lib/app_launcher.py" />
