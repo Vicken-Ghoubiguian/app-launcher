@@ -4,7 +4,6 @@
     <BehaviorDescriptions />
     <Dialogs />
     <Resources>
-        <File name="icon" src="icon.png" />
         <File name="App-Launcher" src="App-Launcher.json" />
         <File name="index" src="html/index.html" />
         <File name="serve" src="html/serve.py" />
@@ -38,6 +37,10 @@
         <File name="sleep" src="html/resources/sleep.gif" />
         <File name="whitePage" src="html/resources/whitePage.png" />
         <File name="app_launcher" src="lib/app_launcher.py" />
+        <File name="LICENSE" src="LICENSE" />
+        <File name="README" src="README.md" />
+        <File name="icon" src="html/resources/icon.png" />
+        <File name="icon" src="icon.png" />
     </Resources>
     <Topics />
     <IgnoredPaths />

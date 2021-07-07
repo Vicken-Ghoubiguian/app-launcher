@@ -1,45 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<package uuid="app-launcher-c88600" version="2.4.2">
+<package uuid="app-launcher-c88600" version="0.0.1">
  <names>
   <name lang="en_US">App-Launcher</name>
   <name lang="en_US-x-scrald">App-Launcher</name>
  </names>
  <descriptions>
-  <description lang="en_US">Launcher for applications
-Create a set of pages, each containing the desired applications. 
-Preferences for customization in domain tool.applauncher.page:
-Create your own pages configuration
-key:
-page1(2,3,4...)
-format value:
-{'title':{'English':'Retail','French':'Vente'},'apps':['product-information','shop-orientation','loyalty-program','satisfaction-survey']}
-Preferences for customization in domain tool.applauncher:
-keys:
-- logo : changes the front page logo on tablet (ex: logoIMERIR.png)
-- behaviorNameDisplayed : 1 to show apps' name
-- attachedApplication : another app is displayed on tablet instead of the default page
-- conditionExpression : launch trigger condition for tablet to be displayed
-- dialogAlwaysRunning : boolean default False : bypass run_dialog and run the dialog automatically.
-Preferences you have to add  in domain com.aldebaran.system.tablet:
-- MainActivity : image
-- MainResourceURL : http://198.18.0.1/apps/app-launcher/resources/background.jpg</description>
-  <description lang="en_US-x-scrald">Launcher for applications
-Create a set of pages, each containing the desired applications. 
-Preferences for customization in domain tool.applauncher.page:
-Create your own pages configuration
-key:
-page1(2,3,4...)
-format value:
-{'title':{'English':'Retail','French':'Vente'},'apps':['product-information','shop-orientation','loyalty-program','satisfaction-survey']}
-Preferences for customization in domain tool.applauncher:
-keys:
-- logo : changes the front page logo on tablet (ex: logoIMERIR.png)
-- behaviorNameDisplayed : 1 to show apps' name
-- attachedApplication : another app is displayed on tablet instead of the default page
-- conditionExpression : launch trigger condition for tablet to be displayed
-- dialogAlwaysRunning : boolean default False : bypass run_dialog and run the dialog automatically.
-Preferences you have to add  in domain com.aldebaran.system.tablet:
-- MainActivity : image
+  <description lang="en_US-x-scrald">Launcher for applications&#xd;
+Create a set of pages, each containing the desired applications. &#xd;
+Preferences for customization in domain tool.applauncher.page:&#xd;
+Create your own pages configuration&#xd;
+key:&#xd;
+page1(2,3,4...)&#xd;
+format value:&#xd;
+{'title':{'English':'Retail','French':'Vente'},'apps':['product-information','shop-orientation','loyalty-program','satisfaction-survey']}&#xd;
+Preferences for customization in domain tool.applauncher:&#xd;
+keys:&#xd;
+- logo : changes the front page logo on tablet (ex: logoIMERIR.png)&#xd;
+- behaviorNameDisplayed : 1 to show apps' name&#xd;
+- attachedApplication : another app is displayed on tablet instead of the default page&#xd;
+- conditionExpression : launch trigger condition for tablet to be displayed&#xd;
+- dialogAlwaysRunning : boolean default False : bypass run_dialog and run the dialog automatically.&#xd;
+Preferences you have to add  in domain com.aldebaran.system.tablet:&#xd;
+- MainActivity : image&#xd;
 - MainResourceURL : http://198.18.0.1/apps/app-launcher/resources/background.jpg</description>
  </descriptions>
  <descriptionLanguages>
@@ -47,7 +29,7 @@ Preferences you have to add  in domain com.aldebaran.system.tablet:
  </descriptionLanguages>
  <contents/>
  <requirements>
-  <naoqiRequirement minVersion="2.4" maxVersion="2.5"/>
+  <naoqiRequirement maxVersion="2.5" minVersion="2.4"/>
   <robotRequirement model="JULIETTE"/>
  </requirements>
  <services>
