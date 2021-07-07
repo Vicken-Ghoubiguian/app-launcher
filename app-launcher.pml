@@ -35,7 +35,7 @@
         <File name="defaultPreferences" src="html/resources/defaultPreferences.json" />
         <File name="loading" src="html/resources/loading.gif" />
         <File name="Pepper-white" src="html/resources/Pepper-white.png" />
-        <File name="pepper" src="html/resources/pepper.png" />
+        <!--<File name="pepper" src="html/resources/pepper.png" />-->
         <File name="sleep" src="html/resources/sleep.gif" />
         <File name="whitePage" src="html/resources/whitePage.png" />
         <File name="app_launcher" src="lib/app_launcher.py" />
