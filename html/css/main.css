@@ -201,10 +201,10 @@ body{
     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
 }
 
-#cci-po_logo {
+/*#cci-po_logo {
   margin-bottom: 60px;
   margin-right: 450px;
-}
+}*/
 
 .dropup{
   position: absolute;
