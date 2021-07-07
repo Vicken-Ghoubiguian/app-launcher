@@ -163,7 +163,7 @@ body{
 }
 
 .behaviorNameGrid{
-  color : black;
+  color : #575756;
   font-family: 'Nunito-Bold', sans-serif;   
   font-size:25px;
 }
@@ -177,8 +177,8 @@ body{
 }
 
 .appsGrid{
-  width: 1670px;
-  height: 850px;
+  width: 1660px;
+  height: 870px;
   border-radius: 20px;
   float: none;
   border: 1px solid #575756;
