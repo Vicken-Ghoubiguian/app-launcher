@@ -130,7 +130,6 @@ body{
 }
 
 .iconApp_zoom{
-  /*background-color: #aecbd6;*/
   position: absolute;
   line-height: 750px;
   top: 26%;
@@ -180,9 +179,9 @@ body{
 .appsGrid{
   width: 1670px;
   height: 850px;
-  color: #575756;
   border-radius: 20px;
-  background-color: #ffffff;
+  /*color: #575756;
+  background-color: #ffffff;*/
   float: none;
   border: 1px solid #276D0A;
   margin: 4px;
