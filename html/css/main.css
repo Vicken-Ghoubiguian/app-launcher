@@ -26,7 +26,8 @@ body{
 }
 
 #logo {
-  margin-left: 460px;
+  margin-left: 550px;
+  margin-top: 0px;
   background-size: contain;
   background-repeat: no-repeat;
   background-position-x: center;
