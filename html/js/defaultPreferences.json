@@ -83,10 +83,6 @@
 		"language-selector":{
 			"English":"Language",
 			"French":"Langue"
-		},
-		"buttonWakeup":{
-			"English": "Wake up robot!",
-			"French" : "Réveille-toi robot !"
 		}
 	}
 }

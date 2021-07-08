@@ -303,13 +303,13 @@ function add_settings_button(lang){
     });
 
     // Wakeup the robot when it's in sleeping mode
-    $('#buttonWakeup').on('touchstart touchmove click', function(){
+    /*$('#buttonWakeup').on('touchstart touchmove click', function(){
         if (preventMultipleClick("Element")) return;
         audio.play();
         session.service("ALAutonomousLife").then( function(alife){
             alife.setState("solitary")
         });
-    });
+    });*/
 
     $('.dropdown-menu button').click(function(){
 		return false;
