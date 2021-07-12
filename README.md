@@ -16,7 +16,7 @@ This is a project to develop a customized app launcher for the IMERIR Pepper rob
 
 IMERIR is an engineering school providing training in IT, connected objects, artificial intelligence, maker culture and robotics.
 
-<img src="./html/resources/icon.png" data-canonical-src="./html/resources/icon.png" width="200" height="200" style="text-align: center;" />
+<img src="./html/resources/icon.png" data-canonical-src="./html/resources/icon.png" width="200" height="200" align="center" />
 
 This school has a humanoid robot known as Pepper. Initially manufactured and marketed by the French company Aldebaran robotics, the production and marketing of Pepper was taken over by the Japanese company Softbank when the latter acquired Aldebaran robotics.
 
