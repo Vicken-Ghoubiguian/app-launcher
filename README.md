@@ -18,7 +18,9 @@ IMERIR is an engineering school providing training in IT, connected objects, art
 
 <img src="./html/resources/icon.png" data-canonical-src="./html/resources/icon.png" width="200" height="200" align="center" />
 
-This school has a humanoid robot known as Pepper. Initially manufactured and marketed by the French company Aldebaran robotics, the production and marketing of Pepper was taken over by the Japanese company Softbank when the latter acquired Aldebaran robotics.
+This school has a humanoid robot known as Pepper. Initially manufactured and marketed by the French company Aldebaran robotics, the production and marketing of Pepper was taken over by the Japanese company Softbank when the latter acquired Aldebaran robotics. Here is an image of this robot so emblematic of humanoid robotics:
+
+<img src="./html/resources/robotPepper.png" data-canonical-src="./html/resources/icon.png" width="200" height="200" align="center" />
 
 <a name="presentation_of_this_project"></a>
 ## Presentation of this project
