@@ -14,7 +14,7 @@ This is a project to develop a customized app launcher for the IMERIR Pepper rob
 <a name="introduction"></a>
 ## Introduction
 
-IMERIR is an engineering school providing training in IT, connected objects, artificial intelligence, maker culture and robotics.
+IMERIR is an engineering school providing training in IT, connected objects, artificial intelligence, maker culture and robotics. By the way, here is its logo:
 
 <img src="./html/resources/icon.png" data-canonical-src="./html/resources/icon.png" width="200" height="200" align="center" />
 
