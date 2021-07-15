@@ -40,7 +40,7 @@ button{
     width: 80px;
 }
 button:active{
-    color: lime;
+    color: #E50043;
 }
 button:focus {
     outline:0;
@@ -81,7 +81,7 @@ button:focus {
     text-align: center;
 }
 #header_audio_dropdown>button{
-    color: #607a84;
+    color: #575756;
 }
 #button_unmute{
     background-image: url(../images/conversation-active.png);
