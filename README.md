@@ -5,11 +5,12 @@ This is a project to develop a customized app launcher for the IMERIR Pepper rob
 
 1. [Introduction](#introduction)
 2. [Presentation of this project](#presentation_of_this_project)
-3. [What are this project's components ?](#what_are_components)
-4. [Where find this project ?](#where_find_it)
-5. [How to install this app-launcher on the Pepper robot ?](#how_to_install_this_app_launcher_on_pepper_robot)
-6. [Useful links](#useful_links)
-7. [Conclusion](#conclusion)
+3. [How was this project developed ?](#how_was_developed)
+4. [What are this project's components ?](#what_are_components)
+5. [Where find this project ?](#where_find_it)
+6. [How to install this app-launcher on the Pepper robot ?](#how_to_install_this_app_launcher_on_pepper_robot)
+7. [Useful links](#useful_links)
+8. [Conclusion](#conclusion)
 
 <a name="introduction"></a>
 ## Introduction
