@@ -27,7 +27,7 @@
         <File name="defaultPreferences" src="lib/defaultPreferences.json" />
         <File name="jquery-3.1.1.min" src="html/js/jquery-3.1.1.min.js" />
         <File name="change_screen" src="html/change_screen.ogg" />
-        <File name="Pepper-white" src="html/images/Pepper-white.png" />
+        <File name="IMERIR-picture" src="html/images/imerir-picture.png" />
         <File name="background" src="html/images/background.jpg" />
         <File name="generic_package_icon" src="html/images/generic_package_icon.png" />
         <File name="loading" src="html/images/loading.gif" />
