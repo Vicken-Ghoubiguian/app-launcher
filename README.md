@@ -31,8 +31,6 @@ This project consists to develop a customized app launcher for the IMERIR Pepper
 <a name="how_was_developed"></a>
 ## How was this project developed ?
 
-In this section, we will install this project (the customized IMERIR app-launcher) on the Pepper robot of IMERIR. Please follow the instructions below carefully in order:
-
 <a name="what_are_components"></a>
 ## What are this project's components ?
 
@@ -41,6 +39,22 @@ In this section, we will install this project (the customized IMERIR app-launche
 
 <a name="how_to_install_this_app_launcher_on_pepper_robot"></a>
 ## How to install this app-launcher on the Pepper robot ?
+
+In this section, we will install this project (the customized IMERIR app-launcher) on the Pepper robot of IMERIR. Please follow the instructions below carefully in order:
+
+1. 
+
+2. 
+
+3. 
+
+4. 
+
+5. 
+
+6. 
+
+7. 
 
 <a name="useful_links"></a>
 ## Useful links
