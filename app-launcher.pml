@@ -38,6 +38,11 @@
         <File name="volume-down" src="html/images/volume-down.png" />
         <File name="volume-up" src="html/images/volume-up.png" />
         <File name="icon" src="icon.png" />
+        <File name="LICENSE" src="LICENSE" />
+        <File name="README" src="README.md" />
+        <File name="icon" src="images_to_display_in_github_repos/icon.png" />
+        <File name="procedure_1" src="images_to_display_in_github_repos/installation_procedure_images/procedure_1.PNG" />
+        <File name="pepperRobot" src="images_to_display_in_github_repos/pepperRobot.png" />
     </Resources>
     <Topics>
         <Topic name="applauncher_pages_names_topic_arw" src="applauncher_pages_names_topic/applauncher_pages_names_topic_arw.top" topicName="applauncher_pages_names_topic" language="ar_SA" />
@@ -64,8 +69,8 @@
         <Topic name="applauncher_pages_names_topic_mnt" src="applauncher_pages_names_topic/applauncher_pages_names_topic_mnt.top" topicName="applauncher_pages_names_topic" language="zh_TW" />
     </Topics>
     <IgnoredPaths>
-        <Path src=".metadata" />
         <Path src="lib/dialog_manager.py" />
+        <Path src=".metadata" />
     </IgnoredPaths>
     <Translations auto-fill="en_US">
         <Translation name="translation_ar_SA" src="translations/translation_ar_SA.ts" language="ar_SA" />
