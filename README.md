@@ -17,11 +17,11 @@ This is a project to develop a customized app launcher for the IMERIR Pepper rob
 
 IMERIR is an engineering school providing training in IT, connected objects, artificial intelligence, maker culture and robotics. By the way, here is its logo:
 
-<img src="./html/resources/icon.png" data-canonical-src="./html/resources/icon.png" width="200" height="200" align="center" />
+<img src="./images_to_display_in_github_repos/icon.png" data-canonical-src="./images_to_display_in_github_repos/icon.png" width="200" height="200" align="center" />
 
 This school has a humanoid robot known as Pepper. Initially manufactured and marketed by the French company Aldebaran robotics, the production and marketing of Pepper was taken over by the Japanese company Softbank when the latter acquired Aldebaran robotics. Here is an image of this robot so emblematic of humanoid robotics:
 
-<img src="./html/resources/pepperRobot.png" data-canonical-src="./html/resources/pepperRobot.png" width="400" height="700" align="center" />
+<img src="./images_to_display_in_github_repos/pepperRobot.png" data-canonical-src="./images_to_display_in_github_repos/pepperRobot.png" width="400" height="700" align="center" />
 
 <a name="presentation_of_this_project"></a>
 ## Presentation of this project
