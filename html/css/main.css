@@ -132,6 +132,7 @@ width: 80%;
     height: 280px;
     width: 470px;
     margin: 110px auto;
+    margin-top:20%;
     background-image: url(../images/sleeping.gif);
     background-size: contain;
     background-repeat: no-repeat;
