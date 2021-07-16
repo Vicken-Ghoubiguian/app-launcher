@@ -45,7 +45,8 @@ In this section, we will install this project (the customized IMERIR app-launche
 1. To start, you need to clone the Git repository of the “app-launcher” project hosted on GitHub, using the “git clone https://github.com/Vicken-Ghoubiguian/app-launcher ” command as shown below.
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_1.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_1.PNG" width="766" height="28" align="center" />
 
-2. 
+2. Now please position yourself in the newly created "app-launcher" directory using the "cd app-launcher" command as shown in the screenshot below:
+<img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_2.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_2.PNG" width="405" height="23" align="center" />
 
 3. 
 
