@@ -66,7 +66,7 @@ Now is the time to move on.
 
 4. Now it's time to open the Choregraphe "app-launcher" project that you cloned from GitHub.
 
-5. 
+5. Now is the time to install the app-launcher from the computer where you clone it on your Pepper robot.
 
 6. 
 
