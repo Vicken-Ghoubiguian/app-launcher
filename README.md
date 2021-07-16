@@ -59,7 +59,10 @@ __Warning__: the version of the Choregraphe software that you download and there
 The Choregraphe software installer is then downloaded to your computer. Now you need to run it to install the software. This is illustrated by the screenshot below:
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_5.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_5.PNG" width="1440" height="696" align="center" />
 
+Now that the Choregraphe software is open on your computer, the following window opens as shown below:
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_7.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_7.PNG" width="1920" height="1030" align="center" />
+
+Now is the time to move on.
 
 4. 
 
