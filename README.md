@@ -50,6 +50,12 @@ In this section, we will install this project (the customized IMERIR app-launche
 
 3. 
 
+<img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_3.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_3.PNG" width="1571" height="52" align="center" />
+
+<img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_4.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_4.PNG" width="1902" height="965" align="center" />
+
+<img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_7.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_7.PNG" width="1920" height="1030" align="center" />
+
 4. 
 
 5. 
