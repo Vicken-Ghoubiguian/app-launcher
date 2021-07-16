@@ -54,6 +54,8 @@ In this section, we will install this project (the customized IMERIR app-launche
 If you haven't installed the Choregraphe software, you can do so by downloading the installer from the official Softbank robotics website (at this link:https://www.softbankrobotics.com/emea/en/support/pepper-naoqi-2-9/downloads-softwares) as shown in the screenshot below:
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_4.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_4.PNG" width="1902" height="965" align="center" />
 
+__Warning__: the version of the Choregraphe software that you download and therefore that you wish to install must correspond to the version of the NAOqi operating system installed on your robot. For example if your robot works under version 2.5.10 of the NAOqi operating system, then you must download and install version 2.5.10 of the Choregraphe software.
+
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_5.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_5.PNG" width="1440" height="696" align="center" />
 
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_7.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_7.PNG" width="1920" height="1030" align="center" />
