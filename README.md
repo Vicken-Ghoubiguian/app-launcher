@@ -68,10 +68,6 @@ Now is the time to move on.
 
 5. Now is the time to install the app-launcher from the computer where you clone it on your Pepper robot.
 
-6. 
-
-7. 
-
 <a name="useful_links"></a>
 ## Useful links
 
