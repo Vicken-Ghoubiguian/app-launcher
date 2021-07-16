@@ -60,7 +60,7 @@ The Choregraphe software installer is then downloaded to your computer. Now you 
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_5.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_5.PNG" width="700" height="150" align="center" />
 
 Now that the Choregraphe software is open on your computer, the following window opens as shown below:
-<img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_7.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_7.PNG" width="1900" height="300" align="center" />
+<img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_7.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_7.PNG" width="1900" height="400" align="center" />
 
 Now is the time to move on.
 
