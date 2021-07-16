@@ -48,7 +48,7 @@ In this section, we will install this project (the customized IMERIR app-launche
 2. Now please position yourself in the newly created "app-launcher" directory using the "cd app-launcher" command as shown in the screenshot below:
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_2.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_2.PNG" width="405" height="23" align="center" />
 
-3. Please open the Choregraphe software, the Pepper robot development and administration software developed by Softbank robotics. On Microsoft's Windows platform, you can either click on the software icon in the taskbar as shown below:
+3. Please open the Choregraphe software, the Pepper robot development and administration software developed by Softbank robotics. On Microsoft's Windows platform, you can either click on the software icon in the taskbar (for example) as shown below:
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_3.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_3.PNG" width="1571" height="52" align="center" />
 
 If you haven't installed the Choregraphe software, you can do so by downloading the installer from the official Softbank robotics website (at this link:https://www.softbankrobotics.com/emea/en/support/pepper-naoqi-2-9/downloads-softwares) as shown in the screenshot below:
