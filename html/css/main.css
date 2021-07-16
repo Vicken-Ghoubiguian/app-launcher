@@ -4,6 +4,7 @@ html,body{
     overflow:hidden;
     background-color: white;
     background-image: url(../images/background.jpg);
+    font-family: Arial;
     color: #575756;
     background-size: contain;
   -webkit-touch-callout: none; /* iOS Safari */
