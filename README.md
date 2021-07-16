@@ -76,7 +76,7 @@ Now is the time to move on.
 ## Useful links
 
 * the project that served as a basis: https://github.com/softbankrobotics-labs/app-launcher,
-* the manual for a quick and efficient use of the Pepper robot (in french): 
+* the manual for a quick and efficient use of the Pepper robot (in french): https://docs.google.com/document/d/1ZAIgvsyCzpJZ3wD4W-0Gt4teEFrPybbgo8e2c1v9GA4/edit#heading=h.mdynxomnaje9,
 * 
 
 <a name="conclusion"></a>
