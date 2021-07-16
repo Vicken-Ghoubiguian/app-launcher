@@ -62,7 +62,7 @@ The Choregraphe software installer is then downloaded to your computer. Now you 
 Now that the Choregraphe software is open on your computer, the following window opens as shown below:
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_7.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_7.PNG" width="1950" height="450" align="center" />
 
-Now is the time to move on.
+Now is the time to move on the next step (more precisely the fourth).
 
 4. Now it's time to open the Choregraphe "app-launcher" project that you cloned from GitHub.
 
