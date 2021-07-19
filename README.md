@@ -62,7 +62,7 @@ __Second clue__: there is no app-launcher (application with the name "app-launch
 
 <img src="./images_to_display_in_github_repos/installation_procedure_images/clue_02.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/clue_02.PNG" width="286" height="934" align="center" />
 
-
+If an app-launcher is installed on your Pepper robot, you must remove it. How ? Very simple.
 
 Therefore please follow the instructions below carefully in order:
 
