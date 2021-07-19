@@ -60,7 +60,7 @@ __First clue__:
 
 __Second clue__: 
 
-
+<img src="./images_to_display_in_github_repos/installation_procedure_images/clue_02.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/clue_02.PNG" width="500" height="300" align="center" />
 
 Therefore please follow the instructions below carefully in order:
 
