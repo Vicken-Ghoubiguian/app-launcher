@@ -52,7 +52,15 @@ The screenshot above shows the main app-launcher window with an open menu contai
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_0_2.png" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_0_2.png" width="1010" height="600" align="center" />
 The screenshot above corresponds to the view to choose the application to launch.
 
-__Warning__: in order to install the IMERIR app-launcher, you must ensure that no other app-launcher is installed on the Pepper robot. There are several clues to help you get started.
+__Warning__: in order to install the IMERIR app-launcher, you must ensure that no other app-launcher is installed on the Pepper robot. There are 2 clues to help you get started.
+
+__First clue__:
+
+
+
+__Second clue__:
+
+
 
 Therefore please follow the instructions below carefully in order:
 
