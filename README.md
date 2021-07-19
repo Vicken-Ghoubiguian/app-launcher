@@ -54,11 +54,11 @@ The screenshot above corresponds to the view to choose the application to launch
 
 __Warning__: in order to install the IMERIR app-launcher, you must ensure that no other app-launcher is installed on the Pepper robot. There are 2 clues to help you get started.
 
-__First clue__:
+__First clue__: 
 
+<img src="./images_to_display_in_github_repos/installation_procedure_images/clue_01.png" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/clue_01.png" width="1010" height="600" align="center" />
 
-
-__Second clue__:
+__Second clue__: 
 
 
 
