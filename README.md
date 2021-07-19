@@ -46,8 +46,8 @@ After this procedure completed, Pepper's app-launcher will be like illustrated b
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_0_0.png" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_0_0.png" width="400" height="700" align="center" />
 The screenshot above is the main view of the app-launcher.
 
-<img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_0_0.png" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_0_0.png" width="400" height="700" align="center" />
-The screenshot above corresponds to the view to choose the application to launch.
+<!--<img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_0_0.png" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_0_0.png" width="400" height="700" align="center" />
+The screenshot above corresponds to the view to choose the application to launch.-->
 
 Therefore please follow the instructions below carefully in order:
 
