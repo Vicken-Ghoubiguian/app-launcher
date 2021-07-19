@@ -52,6 +52,8 @@ The screenshot above shows the main app-launcher window with an open menu contai
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_0_2.png" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_0_2.png" width="1010" height="600" align="center" />
 The screenshot above corresponds to the view to choose the application to launch.
 
+__Warning__: 
+
 Therefore please follow the instructions below carefully in order:
 
 1. To start, you need to clone the Git repository of the “app-launcher” project hosted on GitHub, using the “git clone https://github.com/Vicken-Ghoubiguian/app-launcher ” command as shown below.
