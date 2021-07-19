@@ -82,9 +82,11 @@ Now is the time to move on the next step (more precisely the fourth).
 __Warning__: you could also click on the button <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_9_bis.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_9_bis.PNG" width="50" height="45" />, like indicated on the next screenshot.
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_9.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_9.PNG" width="700" height="150" align="center" />
 
-
-
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_10.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_10.PNG" width="1950" height="450" align="center" />
+
+<img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_11.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_11.PNG" width="1950" height="450" align="center" />
+
+<img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_12.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_12.PNG" width="1950" height="450" align="center" />
 
 5. Now is the time to install the app-launcher from the computer where you clone it on your Pepper robot.
 
