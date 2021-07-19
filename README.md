@@ -43,7 +43,7 @@ This project consists to develop a customized app launcher for the IMERIR Pepper
 In this section, we will install this project (the customized IMERIR app-launcher) on the Pepper robot of IMERIR.
 After this procedure completed, Pepper's app-launcher will be like illustrated by screenshots below.
 
-<img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_0_0.png" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_0_0.png" width="1000" height="50" align="center" />
+<img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_0_0.png" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_0_0.png" width="1010" height="600" align="center" />
 The screenshot above is the main view of the app-launcher.
 
 <!--<img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_0_0.png" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_0_0.png" width="400" height="700" align="center" />
