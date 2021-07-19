@@ -40,7 +40,10 @@ This project consists to develop a customized app launcher for the IMERIR Pepper
 <a name="how_to_install_this_app_launcher_on_pepper_robot"></a>
 ## How to install this app-launcher on the Pepper robot ?
 
-In this section, we will install this project (the customized IMERIR app-launcher) on the Pepper robot of IMERIR. Please follow the instructions below carefully in order:
+In this section, we will install this project (the customized IMERIR app-launcher) on the Pepper robot of IMERIR.
+
+
+Therefore please follow the instructions below carefully in order:
 
 1. To start, you need to clone the Git repository of the “app-launcher” project hosted on GitHub, using the “git clone https://github.com/Vicken-Ghoubiguian/app-launcher ” command as shown below.
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_1.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_1.PNG" width="766" height="28" align="center" />
