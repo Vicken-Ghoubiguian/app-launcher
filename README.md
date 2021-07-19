@@ -1,5 +1,5 @@
 # app-launcher
-This is a project to develop a customized app launcher for the IMERIR Pepper robot...
+This is a customized app launcher for the IMERIR Pepper robot forked from the Softbank robotics labs one (from here: https://github.com/softbankrobotics-labs/app-launcher)...
 
 ## Contents
 
