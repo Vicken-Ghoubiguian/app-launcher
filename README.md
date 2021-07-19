@@ -58,9 +58,11 @@ __First clue__: the digital tablet of the Pepper robot displays the interface sh
 
 <img src="./images_to_display_in_github_repos/installation_procedure_images/clue_01.png" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/clue_01.png" width="1010" height="600" align="center" />
 
-__Second clue__: There is no app-launcher (application with the name "app-launcher") installed on the Pepper robot, Therefore there is no app-launcher at all.
+__Second clue__: there is no app-launcher (application with the name "app-launcher") installed on the Pepper robot, Therefore there is no app-launcher at all.
 
 <img src="./images_to_display_in_github_repos/installation_procedure_images/clue_02.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/clue_02.PNG" width="286" height="934" align="center" />
+
+
 
 Therefore please follow the instructions below carefully in order:
 
