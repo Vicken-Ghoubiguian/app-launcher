@@ -82,11 +82,16 @@ Now is the time to move on the next step (more precisely the fourth).
 __Warning__: you could also click on the button <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_9_bis.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_9_bis.PNG" width="50" height="45" />, like indicated on the next screenshot.
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_9.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_9.PNG" width="700" height="150" align="center" />
 
+The following window shown in the screenshot below is displayed and invites you to open the Choregraphe application you want (here the IMERIR app-launcher). To do it, you must open the corresponding Choregraphe project file:
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_10.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_10.PNG" width="1950" height="450" align="center" />
 
+When you have gone to the location of the "app-launcher" project directory and positioned yourself in it, click on the corresponding Choregraphe project file as shown in the screenshot below:
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_11.png" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_11.png" width="1950" height="450" align="center" />
 
+Congratulations, now the app "app-launcher" is open as shown in the screenshot below:
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_12.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_12.PNG" width="1950" height="450" align="center" />
+
+Now is the time to move on the next step (the fifth).
 
 5. Now is the time to install the app-launcher from the computer where you clone it on your Pepper robot.
 
