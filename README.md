@@ -95,7 +95,7 @@ Now is the time to move on the next step (the fifth).
 
 5. Now is the time to install the app-launcher from the computer where you clone it on your Pepper robot.
 
-6. Congratulations, .
+6. Congratulations, the IMERIR's app launcher is now installed as shown on the following screenshots.
 
 <a name="useful_links"></a>
 ## Useful links
