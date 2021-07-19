@@ -46,7 +46,7 @@ After this procedure completed, Pepper's app-launcher will be like illustrated b
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_0_0.png" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_0_0.png" width="1010" height="600" align="center" />
 The screenshot above is the main view of the app-launcher.
 
-The screenshot above shows the main app-launcher window with an open menu containing some parameters for the robot (top left) to decrease the sound, increase the sound and activate/deactivate mute on Pepper.
+The screenshot above shows the main app-launcher window with an open menu containing some parameters for the robot (top right) to decrease the sound, increase the sound and activate/deactivate mute on Pepper.
 
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_0_2.png" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_0_2.png" width="1010" height="600" align="center" />
 The screenshot above corresponds to the view to choose the application to launch.
