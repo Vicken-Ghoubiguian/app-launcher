@@ -78,6 +78,9 @@ Now is the time to move on the next step (more precisely the fourth).
 
 4. Now it's time to open the Choregraphe "app-launcher" project that you cloned from GitHub.
 
+To do this, 
+<img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_8.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_8.PNG" width="1950" height="450" align="center" />
+
 5. Now is the time to install the app-launcher from the computer where you clone it on your Pepper robot.
 
 <a name="useful_links"></a>
