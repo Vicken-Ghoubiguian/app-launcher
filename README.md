@@ -118,6 +118,7 @@ Now is the time to move on the next step (the fifth).
 * the manual for a quick and efficient use of the Pepper robot (in french): https://docs.google.com/document/d/1ZAIgvsyCzpJZ3wD4W-0Gt4teEFrPybbgo8e2c1v9GA4/edit#heading=h.mdynxomnaje9,
 * 
 * 
+* 
 
 <a name="conclusion"></a>
 ## Conclusion
