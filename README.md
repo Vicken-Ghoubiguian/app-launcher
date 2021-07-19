@@ -84,7 +84,7 @@ __Warning__: you could also click on the button <img src="./images_to_display_in
 
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_10.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_10.PNG" width="1950" height="450" align="center" />
 
-<img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_11.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_11.PNG" width="1950" height="450" align="center" />
+<img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_11.png" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_11.png" width="1950" height="450" align="center" />
 
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_12.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_12.PNG" width="1950" height="450" align="center" />
 
