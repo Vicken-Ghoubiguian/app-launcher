@@ -40,9 +40,7 @@
         <File name="icon" src="icon.png" />
         <File name="LICENSE" src="LICENSE" />
         <File name="README" src="README.md" />
-        <File name="icon" src="images_to_display_in_github_repos/icon.png" />
-        <File name="procedure_1" src="images_to_display_in_github_repos/installation_procedure_images/procedure_1.PNG" />
-        <File name="pepperRobot" src="images_to_display_in_github_repos/pepperRobot.png" />
+        <File name="icon" src="icon.png" />
     </Resources>
     <Topics>
         <Topic name="applauncher_pages_names_topic_arw" src="applauncher_pages_names_topic/applauncher_pages_names_topic_arw.top" topicName="applauncher_pages_names_topic" language="ar_SA" />
