@@ -6,11 +6,12 @@ This is a customized app launcher for the IMERIR Pepper robot (for NAOqi 2.5) fo
 1. [Introduction](#introduction)
 2. [Presentation of this project](#presentation_of_this_project)
 3. [How was this project developed ?](#how_was_developed)
-4. [What are this project's components ?](#what_are_components)
-5. [Where find this project ?](#where_find_it)
-6. [How to install this app-launcher on the Pepper robot ?](#how_to_install_this_app_launcher_on_pepper_robot)
-7. [Useful links](#useful_links)
-8. [Conclusion](#conclusion)
+4. [What is the app-launcher Git folder's structure](#what_is_structure)
+5. [What are this project's components ?](#what_are_components)
+6. [Where find this project ?](#where_find_it)
+7. [How to install this app-launcher on the Pepper robot ?](#how_to_install_this_app_launcher_on_pepper_robot)
+8. [Useful links](#useful_links)
+9. [Conclusion](#conclusion)
 
 <a name="introduction"></a>
 ## Introduction
@@ -30,6 +31,9 @@ This project consists to develop a customized app launcher for the IMERIR Pepper
 
 <a name="how_was_developed"></a>
 ## How was this project developed ?
+
+<a name="what_is_structure"></a>
+## What is the app-launcher Git folder's structure
 
 <a name="what_are_components"></a>
 ## What are this project's components ?
