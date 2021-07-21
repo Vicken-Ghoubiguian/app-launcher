@@ -135,6 +135,12 @@ Once this window disappears, the installation of the application is complete.
 
 6. Congratulations, the IMERIR's app launcher is now installed as shown on the following screenshots.
 
+<img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_14_1.png" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_14_1.png" width="1010" height="600" align="center" />
+
+<img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_14_2.png" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_14_2.png" width="1010" height="600" align="center" />
+
+<img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_14_3.png" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_14_3.png" width="1010" height="600" align="center" />
+
 <a name="useful_links"></a>
 ## Useful links
 
