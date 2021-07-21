@@ -121,7 +121,7 @@ The first option is the default option for this button. So each time you click o
 
 Its position in the Choregraphe software interface is illustrated by the screenshot below.
 
-<img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_13_0.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_13_0.PNG" width="1920" height="1030" align="center" />
+<img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_13_0.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_13_0.PNG" width="1950" height="450" align="center" />
 
 Once you have pressed the button <img src="./images_to_display_in_github_repos/installation_procedure_images/install.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/install.PNG" width="54" height="34" /> therefore, the following window appears and indicates the percentage of the transfer of the application to be installed (here our app-launcher) from your machine to the robot in percentage (%).
 
