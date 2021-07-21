@@ -107,7 +107,13 @@ Congratulations, now the app "app-launcher" is open as shown in the screenshot b
 
 Now is the time to move on the next step (the fifth).
 
-5. Now is the time to install the app-launcher from the computer where you clone it on your Pepper robot. To do this, please click on the button <img src="./images_to_display_in_github_repos/installation_procedure_images/install.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/install.PNG" width="54" height="34" />.
+5. Now is the time to install the app-launcher from the computer where you clone it on your Pepper robot. To do this, please click on the button <img src="./images_to_display_in_github_repos/installation_procedure_images/install.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/install.PNG" width="54" height="34" />. This button has 2 options:
+
+    * __Package and install current project to the robot__: packages and installs the open application in the Choregraphe software on the Pepper robot,
+
+    * __Install a package to the robot...__: installs a packaged application on the Pepper robot.
+
+The first option is the default option for this button. So each time you click on it, the Choregraphe software packages the open application and then installs it on the Pepper robot. Once you have pressed the button <img src="./images_to_display_in_github_repos/installation_procedure_images/install.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/install.PNG" width="54" height="34" /> therefore, the following window appears and indicates the percentage of the transfer of the application to be installed (here our app-launcher) from your machine to the robot in percentage (%).
 
 6. Congratulations, the IMERIR's app launcher is now installed as shown on the following screenshots.
 

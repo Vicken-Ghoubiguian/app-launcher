@@ -39,9 +39,9 @@
         <File name="volume-up" src="html/images/volume-up.png" />
         <!--<File name="icon" src="images_to_display_in_github_repos/icon.png" />
         <File name="procedure_1" src="images_to_display_in_github_repos/installation_procedure_images/procedure_1.PNG" />
-        <File name="pepperRobot" src="images_to_display_in_github_repos/pepperRobot.png" />-->
+        <File name="pepperRobot" src="images_to_display_in_github_repos/pepperRobot.png" />
         <File name="LICENSE" src="LICENSE" />
-        <File name="README" src="README.md" />
+        <File name="README" src="README.md" />-->
         <File name="icon" src="icon.png" />
     </Resources>
     <Topics>
