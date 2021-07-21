@@ -117,7 +117,13 @@ Now is the time to move on the next step (the fifth).
 
     * __Install a package to the robot...__: installs a packaged application on the Pepper robot.
 
-The first option is the default option for this button. So each time you click on it, the Choregraphe software packages the open application and then installs it on the Pepper robot. Once you have pressed the button <img src="./images_to_display_in_github_repos/installation_procedure_images/install.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/install.PNG" width="54" height="34" /> therefore, the following window appears and indicates the percentage of the transfer of the application to be installed (here our app-launcher) from your machine to the robot in percentage (%).
+The first option is the default option for this button. So each time you click on it, the Choregraphe software packages the open application and then installs it on the Pepper robot.
+
+Its position in the Choregraphe software interface is illustrated by the screenshot below.
+
+<img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_13_0.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_13_0.PNG" width="1920" height="1030" align="center" />
+
+Once you have pressed the button <img src="./images_to_display_in_github_repos/installation_procedure_images/install.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/install.PNG" width="54" height="34" /> therefore, the following window appears and indicates the percentage of the transfer of the application to be installed (here our app-launcher) from your machine to the robot in percentage (%).
 
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_13_1.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_13_1.PNG" width="462" height="339" align="center" />
 
