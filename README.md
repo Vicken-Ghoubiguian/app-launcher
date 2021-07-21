@@ -115,6 +115,14 @@ Now is the time to move on the next step (the fifth).
 
 The first option is the default option for this button. So each time you click on it, the Choregraphe software packages the open application and then installs it on the Pepper robot. Once you have pressed the button <img src="./images_to_display_in_github_repos/installation_procedure_images/install.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/install.PNG" width="54" height="34" /> therefore, the following window appears and indicates the percentage of the transfer of the application to be installed (here our app-launcher) from your machine to the robot in percentage (%).
 
+<img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_13_1.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_13_1.PNG" width="462" height="339" align="center" />
+
+Once at 100%, the following window appears showing that the application is installed on the Pepper robot.
+
+<img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_13_2.PNG" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_13_2.PNG" width="465" height="340" align="center" />
+
+Once this window disappears, the installation of the application is complete.
+
 6. Congratulations, the IMERIR's app launcher is now installed as shown on the following screenshots.
 
 <a name="useful_links"></a>
