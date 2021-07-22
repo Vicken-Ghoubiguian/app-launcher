@@ -36,6 +36,8 @@ __With custom IMERIR app-launcher__
 
 <img src="./images_to_display_in_github_repos/app_launcher_images/customized_IMERIR_app_launcher_3.png" data-canonical-src="./images_to_display_in_github_repos/app_launcher_images/customized_IMERIR_app_launcher_3.png" width="1010" height="600" align="center" />
 
+__With default Pepper's app-launcher (https://github.com/softbankrobotics-labs/app-launcher)__
+
 __Without app-launcher__
 <img src="./images_to_display_in_github_repos/app_launcher_images/without_app_launcher.png" data-canonical-src="./images_to_display_in_github_repos/app_launcher_images/without_app_launcher.png" width="1010" height="600" align="center" />
 
