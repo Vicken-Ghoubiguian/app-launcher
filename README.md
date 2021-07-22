@@ -41,6 +41,8 @@ This project consists to develop a customized app launcher for the IMERIR Pepper
 <a name="where_find_it"></a>
 ## Where find this project ?
 
+This project can only be find here, in the current GitHub repos. 
+
 <a name="how_to_install_this_app_launcher_on_pepper_robot"></a>
 ## How to install this app-launcher on the Pepper robot ?
 
