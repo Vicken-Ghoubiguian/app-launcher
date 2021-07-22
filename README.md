@@ -146,6 +146,7 @@ Once this window disappears, the installation of the application is complete.
 <a name="useful_links"></a>
 ## Useful links
 
+* the post on Stack Overflow answering the 'How to create apps launcher at Pepper's tablet' question: https://stackoverflow.com/questions/59045692/how-to-create-apps-launcher-at-peppers-tablet,
 * the original project, the forked one: https://github.com/softbankrobotics-labs/app-launcher,
 * the manual for a quick and efficient use of the Pepper robot (in french): https://docs.google.com/document/d/1ZAIgvsyCzpJZ3wD4W-0Gt4teEFrPybbgo8e2c1v9GA4/edit#heading=h.mdynxomnaje9
 
