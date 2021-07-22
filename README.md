@@ -41,6 +41,7 @@ This project consists to develop a customized app launcher for the IMERIR Pepper
 " data-canonical-src="./images_to_display_in_github_repos/app_launcher_images/customized_IMERIR_app_launcher_3.png
 " width="1010" height="600" align="center" />
 
+__Without app-launcher__
 <img src="./images_to_display_in_github_repos/app_launcher_images/without_app_launcher.png" data-canonical-src="./images_to_display_in_github_repos/app_launcher_images/without_app_launcher.png" width="1010" height="600" align="center" />
 
 <a name="how_was_developed"></a>
