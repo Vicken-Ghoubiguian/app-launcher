@@ -27,7 +27,7 @@ This school has a humanoid robot known as Pepper. Initially manufactured and mar
 <a name="presentation_of_this_project"></a>
 ## Presentation of this project
 
-This project consists to develop a customized app launcher for the IMERIR Pepper robot.
+This project consists to develop a customized app launcher for the IMERIR Pepper robot. It is a program which runs as soon as the robot is fully started, which allows you to select which application to run and which serves as a showcase for the operating organization to display its identity, brand and visuals.
 
 <a name="how_was_developed"></a>
 ## How was this project developed ?
