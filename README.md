@@ -42,7 +42,7 @@ __With custom IMERIR app-launcher__
 " data-canonical-src="./images_to_display_in_github_repos/app_launcher_images/customized_IMERIR_app_launcher_3.png
 " width="1010" height="600" align="center" />-->
 
-<img src="./images_to_display_in_github_repos/app_launcher_images/without_app_launcher.png" data-canonical-src="./images_to_display_in_github_repos/app_launcher_images/without_app_launcher.png" width="1010" height="600" align="center" />
+<img src="./images_to_display_in_github_repos/app_launcher_images/customized_IMERIR_app_launcher_1.png" data-canonical-src="./images_to_display_in_github_repos/app_launcher_images/customized_IMERIR_app_launcher_1.png" width="1010" height="600" align="center" />
 
 __Without app-launcher__
 <img src="./images_to_display_in_github_repos/app_launcher_images/without_app_launcher.png" data-canonical-src="./images_to_display_in_github_repos/app_launcher_images/without_app_launcher.png" width="1010" height="600" align="center" />
