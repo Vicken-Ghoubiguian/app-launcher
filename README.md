@@ -30,18 +30,11 @@ This school has a humanoid robot known as Pepper. Initially manufactured and mar
 This project consists to develop a customized app launcher for the IMERIR Pepper robot. It is a program which runs as soon as the robot is fully started, which allows you to select which application to run and which serves as a showcase for the operating organization to display its identity, brand and visuals.
 
 __With custom IMERIR app-launcher__
-<!--<img src="./images_to_display_in_github_repos/app_launcher_images/customized_IMERIR_app_launcher_1.PNG
-" data-canonical-src="./images_to_display_in_github_repos/app_launcher_images/customized_IMERIR_app_launcher_1.PNG
-" width="1010" height="600" align="center" />
-
-<img src="./images_to_display_in_github_repos/app_launcher_images/customized_IMERIR_app_launcher_2.png
-" data-canonical-src="./images_to_display_in_github_repos/app_launcher_images/customized_IMERIR_app_launcher_2.png
-" width="1010" height="600" align="center" />
-
-<img src="./images_to_display_in_github_repos/app_launcher_images/customized_IMERIR_app_launcher_3.png
-" data-canonical-src="./images_to_display_in_github_repos/app_launcher_images/customized_IMERIR_app_launcher_3.png
-" width="1010" height="600" align="center" />-->
 <img src="./images_to_display_in_github_repos/app_launcher_images/customized_IMERIR_app_launcher_1.png" data-canonical-src="./images_to_display_in_github_repos/app_launcher_images/customized_IMERIR_app_launcher_1.png" width="1010" height="600" align="center" />
+
+<img src="./images_to_display_in_github_repos/app_launcher_images/customized_IMERIR_app_launcher_2.png" data-canonical-src="./images_to_display_in_github_repos/app_launcher_images/customized_IMERIR_app_launcher_2.png" width="1010" height="600" align="center" />
+
+<img src="./images_to_display_in_github_repos/app_launcher_images/customized_IMERIR_app_launcher_3.png" data-canonical-src="./images_to_display_in_github_repos/app_launcher_images/customized_IMERIR_app_launcher_3.png" width="1010" height="600" align="center" />
 
 __Without app-launcher__
 <img src="./images_to_display_in_github_repos/app_launcher_images/without_app_launcher.png" data-canonical-src="./images_to_display_in_github_repos/app_launcher_images/without_app_launcher.png" width="1010" height="600" align="center" />
