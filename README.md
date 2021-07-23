@@ -54,6 +54,8 @@ __Without app-launcher__
 <a name="how_was_developed"></a>
 ## How was this project developed ?
 
+This project is a fork of this [one](https://github.com/softbankrobotics-labs/app-launcher), so the latest was therefore taken over to serve as the basis for the customized IMERIR app-launcher.
+
 <a name="what_is_structure"></a>
 ## What is the app-launcher Git folder's structure
 
