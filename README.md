@@ -40,7 +40,7 @@ __With custom IMERIR app-launcher__
 <img src="./images_to_display_in_github_repos/app_launcher_images/customized_IMERIR_app_launcher_3.png" data-canonical-src="./images_to_display_in_github_repos/app_launcher_images/customized_IMERIR_app_launcher_3.png" width="1010" height="600" align="center" />
 
 __With default Pepper's app-launcher (https://github.com/softbankrobotics-labs/app-launcher)__
-<img src="./images_to_display_in_github_repos/app_launcher_images/original_IMERIR_app_launcher_1" data-canonical-src="./images_to_display_in_github_repos/app_launcher_images/original_IMERIR_app_launcher_1" width="1010" height="600" align="center" />
+<img src="./images_to_display_in_github_repos/app_launcher_images/original_IMERIR_app_launcher_1.png" data-canonical-src="./images_to_display_in_github_repos/app_launcher_images/original_IMERIR_app_launcher_1.png" width="1010" height="600" align="center" />
 
 <!--<img src="./images_to_display_in_github_repos/app_launcher_images/customized_IMERIR_app_launcher_2.png" data-canonical-src="./images_to_display_in_github_repos/app_launcher_images/customized_IMERIR_app_launcher_2.png" width="1010" height="600" align="center" />
 
