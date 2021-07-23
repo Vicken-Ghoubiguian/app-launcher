@@ -1,5 +1,5 @@
 # app-launcher
-This is a customized app launcher for the IMERIR Pepper robot (for NAOqi 2.5) forked from the Softbank robotics labs one (from here: https://github.com/softbankrobotics-labs/app-launcher)...
+This is a customized app launcher for the IMERIR Pepper robot (for NAOqi 2.5) forked from the [Softbank robotics labs one](https://github.com/softbankrobotics-labs/app-launcher)...
 
 ## Contents
 
