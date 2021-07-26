@@ -176,3 +176,5 @@ Once this window disappears, the installation of the application is complete.
 
 <a name="conclusion"></a>
 ## Conclusion
+
+Despite the simplicity of this project, writing its documentation was complicated.
