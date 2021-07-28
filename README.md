@@ -63,9 +63,9 @@ The app-launcher Git folder contains these elements:
 
 * __app-launcher__:
 
-* __images_to_display_in_github_repos__:
+* __images_to_display_in_github_repos__: 
 
-* __COPYING.md__: copyright file to complete the current LICENSE (from the forked project: https://github.com/softbankrobotics-labs/app-launcher/blob/master/COPYING.md),
+* __COPYING.md__: copyright file to complete the terms of the current LICENSE (from the forked project: https://github.com/softbankrobotics-labs/app-launcher/blob/master/COPYING.md),
 
 * __LICENSE__: file to define the software license of the current Git project (from the forked project LICENSE: https://github.com/softbankrobotics-labs/app-launcher/blob/master/COPYING.md),
 
