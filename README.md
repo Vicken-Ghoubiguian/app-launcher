@@ -59,6 +59,18 @@ This project is a fork of this [one](https://github.com/softbankrobotics-labs/ap
 <a name="what_is_structure"></a>
 ## What is the app-launcher Git folder's structure
 
+The app-launcher Git folder contains these elements:
+
+* __app-launcher__:
+
+* __images_to_display_in_github_repos__:
+
+* __COPYING.md__:
+
+* __LICENSE__:
+
+* __README.md__:
+
 <a name="what_are_components"></a>
 ## What are this project's components ?
 
