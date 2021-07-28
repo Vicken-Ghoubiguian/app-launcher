@@ -61,7 +61,7 @@ This project is a fork of this [one](https://github.com/softbankrobotics-labs/ap
 
 The app-launcher Git folder contains these elements:
 
-* __app-launcher__: folder which contains the 'app-launcher' application,
+* __app-launcher__: folder which contains the 'app-launcher' application (see below),
 
 * __images_to_display_in_github_repos__: folder which contains pictures used in the __README.md__ file,
 
