@@ -65,11 +65,11 @@ The app-launcher Git folder contains these elements:
 
 * __images_to_display_in_github_repos__:
 
-* __COPYING.md__:
+* __COPYING.md__: 
 
-* __LICENSE__:
+* __LICENSE__: file to define the software license of the current Git project (from the forked project LICENSE: https://github.com/softbankrobotics-labs/app-launcher/blob/master/COPYING.md),
 
-* __README.md__:
+* __README.md__: markdown file to present and document the current Git project with tutorials and some details. 
 
 <a name="what_are_components"></a>
 ## What are this project's components ?
