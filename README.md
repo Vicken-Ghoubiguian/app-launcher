@@ -74,6 +74,8 @@ The app-launcher Git folder contains these elements:
 <a name="what_are_components"></a>
 ## What are this project's components ?
 
+There are many components in this project and since it is a fork of [this project](https://github.com/softbankrobotics-labs/app-launcher) and that it is not documented ... Well then, I'm fed up, I'll explain nothing and adios amigos friends.
+
 <a name="where_find_it"></a>
 ## Where find this project ?
 
