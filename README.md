@@ -181,6 +181,8 @@ Once this window disappears, the installation of the application is complete.
 
 <img src="./images_to_display_in_github_repos/installation_procedure_images/procedure_14_3.png" data-canonical-src="./images_to_display_in_github_repos/installation_procedure_images/procedure_14_3.png" width="1010" height="600" align="center" />
 
+Just a piece of cake 🐱. No ?
+
 <a name="useful_links"></a>
 ## Useful links
 
