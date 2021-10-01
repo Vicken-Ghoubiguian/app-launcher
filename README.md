@@ -186,9 +186,9 @@ Just a piece of cake 🐱. No ?
 <a name="useful_links"></a>
 ## Useful links
 
-* the post on Stack Overflow answering the 'How to create apps launcher at Pepper's tablet' question: https://stackoverflow.com/questions/59045692/how-to-create-apps-launcher-at-peppers-tablet,
-* the original project, the forked one: https://github.com/softbankrobotics-labs/app-launcher,
-* the manual for a quick and efficient use of the Pepper robot (in french): https://docs.google.com/document/d/1ZAIgvsyCzpJZ3wD4W-0Gt4teEFrPybbgo8e2c1v9GA4/edit#heading=h.mdynxomnaje9,
+* [the post on Stack Overflow answering the 'How to create apps launcher at Pepper's tablet' question](https://stackoverflow.com/questions/59045692/how-to-create-apps-launcher-at-peppers-tablet),
+* [the original project, the forked one](https://github.com/softbankrobotics-labs/app-launcher),
+* [the manual for a quick and efficient use of the Pepper robot (in french)](https://docs.google.com/document/d/1ZAIgvsyCzpJZ3wD4W-0Gt4teEFrPybbgo8e2c1v9GA4/edit#heading=h.mdynxomnaje9),
 * [Documentation about the Choregraphe software](http://www.lirmm.fr/~seriai/uploads/Enseignement/CHOREGRAPHE.pdf),
 * [Learn Choregraphe (for Pepper) - Level 1 - Introduction](https://www.youtube.com/watch?v=wSoGO1iL_v4&list=PLmXbV-2dNm40-19AfOc_0Ie_3hR-7nwMo),
 * [Learn Choregraphe (for Pepper) - Level 2 - Special Topics](https://www.youtube.com/watch?v=tqVbX5NWFdU&list=PLmXbV-2dNm43SH6HG88LALwFPs2TQIGpa).
